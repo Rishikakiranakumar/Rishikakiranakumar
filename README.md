@@ -18,7 +18,7 @@ I'm looking forward to exploring internship opportunities and contributing to re
 
 Languages
 
-[My Skills](https://skillicons.dev/icons?i=js,html,css)
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 
 Here are some ideas to get you started:

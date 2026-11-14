@@ -14,12 +14,19 @@ Currently building:
 
 I'm looking forward to exploring internship opportunities and contributing to real-world projects!
 
-🛠 Tech stack
+**🛠 Tech stack**
 
-Languages
+**Languages**
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+![My Skills](https://skillicons.dev/icons?i=java,html,css,js,)
 
+**Backend, Data & Web**
+
+![My Skills](https://skillicons.dev/icons?i=mysql,react)
+
+**Tools & Platforms**
+
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github)
 
 Here are some ideas to get you started:
 

@@ -14,8 +14,10 @@ Currently building:
 
 I'm looking forward to exploring internship opportunities and contributing to real-world projects!
 
-<!--
-**Rishikakiranakumar/Rishikakiranakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech stack
+Languages
+<![My Skills](https://skillicons.dev/icons?i=js,html,css)!--
+
 
 Here are some ideas to get you started:
 

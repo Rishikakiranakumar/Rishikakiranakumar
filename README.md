@@ -15,8 +15,10 @@ Currently building:
 I'm looking forward to exploring internship opportunities and contributing to real-world projects!
 
 🛠 Tech stack
+
 Languages
-<![My Skills](https://skillicons.dev/icons?i=js,html,css)!--
+
+[My Skills](https://skillicons.dev/icons?i=js,html,css)
 
 
 Here are some ideas to get you started:

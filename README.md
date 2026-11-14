@@ -22,7 +22,7 @@ I'm looking forward to exploring internship opportunities and contributing to re
 
 **Backend, Data & Web**
 
-![My Skills](https://skillicons.dev/icons?i=mysql,react)
+![My Skills](https://skillicons.dev/icons?i=mysql)
 
 **Tools & Platforms**
 
